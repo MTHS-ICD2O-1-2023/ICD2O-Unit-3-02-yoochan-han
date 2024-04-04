@@ -10,5 +10,5 @@ function Caculate() {
   const height = parseFloat(document.getElementById("get_height").value)
   // caculate
   let ans = (length * width * height) / 3
-  document.getElementById("ans").innerHTML = ans.toFixed(2) + "mm"
+  document.getElementById("Answer").innerHTML = "volume of pyramid is " + ans + "cm³."
 }
