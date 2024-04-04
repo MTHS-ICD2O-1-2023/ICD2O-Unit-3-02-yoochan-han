@@ -21,6 +21,7 @@ p {
   position: relative;
   float: right;
   right: 400px;
+  top: 100px;
 }
 
 h2 {

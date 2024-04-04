@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="278" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="873" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -14,9 +14,6 @@
                 </mxCell>
                 <mxCell id="29" value="Answer" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;fontSize=14;fontColor=#000000;whiteSpace=wrap;" parent="7" vertex="1">
                     <mxGeometry x="30" y="409" width="133" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="36" value="l" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;fontSize=20;fontColor=#000000;fontFamily=Lucida Console;" parent="7" vertex="1">
-                    <mxGeometry x="480" y="379" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontSize=14;fontColor=#000000;labelBorderColor=none;strokeColor=#000000;" parent="7" vertex="1">
                     <mxGeometry x="20" y="206.5" width="105" height="20" as="geometry"/>
