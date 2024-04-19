@@ -21,7 +21,7 @@
                 <mxCell id="19" value="length :&amp;nbsp;" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#000000;fillStyle=auto;gradientColor=none;glass=0;labelBorderColor=none;" parent="7" vertex="1">
                     <mxGeometry x="20" y="305" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="caculate" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;fontSize=14;fontColor=#000000;fillColor=none;gradientColor=none;strokeColor=#000000;" parent="7" vertex="1">
+                <mxCell id="28" value="calculate" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;fontSize=14;fontColor=#000000;fillColor=none;gradientColor=none;strokeColor=#000000;" parent="7" vertex="1">
                     <mxGeometry x="180" y="335" width="90" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;fontSize=14;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="7" vertex="1">

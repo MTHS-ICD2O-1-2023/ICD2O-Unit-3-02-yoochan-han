@@ -4,7 +4,7 @@
 // Created on: Apr 2024
 // This file contains the JS functions for index.html
 
-function Caculate() {
+function Calculate() {
   const length = parseFloat(document.getElementById("get_length").value)
   const width = parseFloat(document.getElementById("get_width").value)
   const height = parseFloat(document.getElementById("get_height").value)
